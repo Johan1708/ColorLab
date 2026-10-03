@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Lab</string>
+    <string name="selected_color">Color Seleccionado </string>
+    <string name="save_favorite">Guardar en favoritos</string>
+    <string name="apply_theme">Aplicxar temas</string>
+    <string name="favorites">Favoritos</string>
+</resources>

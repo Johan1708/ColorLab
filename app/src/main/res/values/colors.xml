@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="palette_colors">
+            <!-- Tus colores originales -->
+            <item>#F44336</item> <!-- Rojo -->
+            <item>#E91E63</item> <!-- Rosa -->
+            <item>#9C27B0</item> <!-- Púrpura -->
+            <item>#673AB7</item> <!-- Púrpura Profundo -->
+            <item>#3F51B5</item> <!-- Índigo -->
+            <item>#2196F3</item> <!-- Azul -->
+            <item>#03A9F4</item> <!-- Azul Claro -->
+            <item>#00BCD4</item> <!-- Cian -->
+            <item>#009688</item> <!-- Verde Azulado -->
+            <item>#4CAF50</item> <!-- Verde -->
+            <item>#FFC107</item> <!-- Ámbar -->
+            <item>#FF5722</item> <!-- Naranja Profundo -->
+
+            <!-- Nuevos colores -->
+            <item>#FFEB3B</item> <!-- Amarillo -->
+            <item>#FF9800</item> <!-- Naranja -->
+            <item>#8BC34A</item> <!-- Verde Claro -->
+            <item>#CDDC39</item> <!-- Lima -->
+            <item>#795548</item> <!-- Marrón -->
+            <item>#9E9E9E</item> <!-- Gris -->
+            <item>#607D8B</item> <!-- Gris Azulado -->
+            <item>#000000</item> <!-- Negro -->
+            <item>#FFFFFF</item> <!-- Blanco -->
+            <item>#FF8A80</item> <!-- Rojo Pastel -->
+            <item>#82B1FF</item> <!-- Azul Pastel -->
+            <item>#B388FF</item> <!-- Púrpura Pastel -->
+        </string-array>
+</resources>
